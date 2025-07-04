@@ -1,0 +1,35 @@
+.nav-link {
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+  transform: translateY(-2px);
+}
+
+.nav-item:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 5px;
+}
+
+.navbar-brand .badge {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-brand .badge:hover {
+  background-color: #e2e6ea;
+  color: #000;
+}
+
+.navbar-brand {
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.navbar-brand:hover {
+  transform: translateY(-2px);
+}
