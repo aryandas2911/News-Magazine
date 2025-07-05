@@ -33,7 +33,7 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/newsmag-react.git
+   git clone https://github.com/aryandas2911/News-Magazine.git
    cd news-mag
    npm install
    npm run dev
